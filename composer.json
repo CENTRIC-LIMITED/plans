@@ -1,5 +1,5 @@
 {
-    "name": "creatydev/plans",
+    "name": "centric/plans-for-laravel",
     "description": "Laravel Plans is a package for SaaS apps that need management over plans, features, subscriptions, events for plans or limited, countable features.",
     "keywords": [
         "eloquent",
@@ -10,7 +10,7 @@
         "model",
         "saas"
     ],
-    "homepage": "https://github.com/creatydev/plans",
+    "homepage": "https://github.com/centric/plans",
     "license": "MIT",
     "authors": [
         {
